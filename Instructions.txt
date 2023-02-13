@@ -1,0 +1,31 @@
+This is a reskin of EUP/SUP clothing you must have EUP/SUP installed before installing this mod.
+
+To install the skin go to the directory listed. Open the YTD and replace the PNG with one from the pack of your choice.
+
+
+
+FILE LOCATIONS:
+
+High Visibility Vest - [Accessory #3]
+Mods\update\x64\dlcpacks\sup\dlc.rpf\x64\sup_componentpeds.rpf\mp_m_freemode_01  >  task_003_u_1.ydd
+
+
+Kevlar Vest - [Shirt #131]
+Mods\update\x64\dlcpacks\eup\dlc.rpf\x64\eup_componentpeds.rpf\mp_m_freemode_01_mp_m_christmas2017  >  accs_009_u_1.ydd
+
+
+Hat - [Hat #11]
+Mods\update\x64\dlcpacks\eup\dlc.rpf\x64\sup_componentpeds_p.rpf\mp_m_freemode_01_p  >  p_head_010.ydd
+
+
+Fire Helmet- [Hat #46]
+Mods\update\x64\dlcpacks\sup\dlc.rpf\x64\sup_componentpeds_p.rpf\mp_m_freemode_01_p_male_xmas2  >  p_head_005.ydd
+
+
+Polo Top- [Shirt/Top #45 ]
+Mods\update\x64\dlcpacks\sup\dlc.rpf\x64\sup_componentpeds.rpf\mp_m_freemode_01_male_freemode_independence  >  jbib_000_u.ydd
+
+---
+
+
+Made by SHUFFY_YT on 5Mods
